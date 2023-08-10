@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "author" : "Forhad",
+        "min" : 15,
+        "text" : "How to get your first job as a self-taught programmer",
+        "authorImage" : "./logo192.png",
+        "image" : "https://img.freepik.com/free-photo/web-design-technology-browsing-programming-concept_53876-163260.jpg?w=740&t=st=1691647419~exp=1691648019~hmac=8611f1a11dca8b9a21e687fce365166348695375e2959b0f8f78fc256733fc56"
+
+        
+    },
+    {
+        "id":2,
+        "author" : "obi",
+        "min" : 5,
+        "text" : "How to get your first job as a self-taught programmer",
+        "authorImage" : "./logo192.png",
+        "image" : "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1691649049~exp=1691649649~hmac=fa5a601b957c46145a1f91f32e7051ce20f4cc3f302e01546917578bf6c1ed45"
+
+        
+    },
+    {
+        "id":3,
+        "author" : "oly",
+        "min" : 10,
+        "text" : "How to get your first job as a self-taught programmer",
+        "authorImage" : "./logo192.png",
+        "image" : "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=740&t=st=1691654381~exp=1691654981~hmac=276dcff88d42c074f76d4312b09193310ded545e101c45051b7d94267c8908d7"
+
+        
+    },
+    {
+        "id":4,
+        "author" : "keya",
+        "min" : 12,
+        "text" : "How to get your first job as a self-taught programmer",
+        "authorImage" : "./logo192.png",
+        "image" : "https://img.freepik.com/premium-photo/programming-code-abstract-technology-background-software-developer-computer-script_34663-31.jpg?w=740"
+
+        
+    }
+]

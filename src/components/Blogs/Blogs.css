@@ -1,0 +1,30 @@
+.blogs-container{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    gap: 30px;
+}
+.blogs-child{
+    grid-column: 1 / 10 ;
+}
+.blogs{
+    grid-column: 10 / -1;
+}
+.flex{
+    display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.blogs h3{
+    color: #6047EC;
+    font-family: Exo 2;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%; /* 38.4px */
+}
+
+.bookmark-container{
+    position: sticky;
+    top: 0;
+}

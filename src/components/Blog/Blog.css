@@ -1,0 +1,24 @@
+.blog{
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.blog h2{
+    color: #111;
+    font-family: Exo 2;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%; /* 64px */
+}
+.blog img {
+    width: 939px;
+    height: 450px;
+}
+.user img{
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+}
+.icon{
+    cursor: pointer;
+}
